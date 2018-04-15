@@ -11,5 +11,6 @@ All the working game encounters in "classic" code, what I did to make the game w
   All the rotations are random and kept in a array, so the box know the following moves.
   
   The game is available in PlayStore as Rebox by PutzStudios.
+  https://play.google.com/store/apps/details?id=com.PutzStudios.Rebox
   
   Thank you~~
